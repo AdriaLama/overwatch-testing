@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
+	"EngineAssociation": "{3E4E43EB-464D-F22D-50D0-009778DBC16F}",
+=======
 	"EngineAssociation": "5.5",
+>>>>>>> origin/main
 	"Category": "",
 	"Description": "",
 	"Plugins": [
